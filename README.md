@@ -1,6 +1,6 @@
 # Synchronized Music Player
 
-This application is an Android-based music synchronization application.
+This project is an Android-based music synchronization application.
 
 ### Using:
 

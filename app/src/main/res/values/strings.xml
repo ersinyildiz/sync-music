@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sync-music</string>
+    <string name="sing_in_button">GİRİŞ YAP</string>
+    <string name="sign_up_button">KAYIT OL</string>
+    <string name="logout_button">ÇIKIŞ</string>
+    <string name="name">Adınız</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="room_name">Oda Adı Giriniz</string>
+    <string name="age">Yaş</string>
+    <string name="male">Erkek</string>
+    <string name="female">Kadın</string>
+    <string name="choose_music">Müzik seçiniz</string>
+    <string name="type_a_message">Type a message</string>
+</resources>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "38164745670",
+    "firebase_url": "https://syncmusic-3ae90.firebaseio.com",
+    "project_id": "syncmusic-3ae90",
+    "storage_bucket": "syncmusic-3ae90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38164745670:android:d377d8bf20b8b7e8",
+        "android_client_info": {
+          "package_name": "com.example.nurcan.logintest02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38164745670-4msgfou9vo0l0bf17i7cnvatp54pj8nr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nurcan.logintest02",
+            "certificate_hash": "3aba8bde0b505f7986e9a3d5485a1a2e4a893dab"
+          }
+        },
+        {
+          "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrNVi7od2cuKuLB4duFD7Sw2wLlkQfzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38164745670:android:594c658fd733440f",
+        "android_client_info": {
+          "package_name": "com.example.nurcan.syncmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38164745670-gk8dt1lbbc2gcurvdfju5qjj72tecnkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nurcan.syncmusic",
+            "certificate_hash": "d378e90466fd23214221ca6ca0ac03c3c900c7b7"
+          }
+        },
+        {
+          "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrNVi7od2cuKuLB4duFD7Sw2wLlkQfzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38164745670:android:d8869dd32427efcc0636c7",
+        "android_client_info": {
+          "package_name": "com.example.sync_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38164745670-4sf33mhemjfe24e0osc16vqjdbgh8ljn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sync_music",
+            "certificate_hash": "abe41c382b2314d092d13884c996abc46b3f11b1"
+          }
+        },
+        {
+          "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrNVi7od2cuKuLB4duFD7Sw2wLlkQfzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38164745670-hcen04tb75e20q10lbsacgane120vegd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
